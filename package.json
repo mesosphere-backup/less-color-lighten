@@ -1,0 +1,19 @@
+{
+  "name": "less-color-lighten",
+  "version": "0.0.1",
+  "description": "A LESS plugin for a simple function that blends a given color with white or black to produce a new color that observes the same general hue as the source color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mesosphere/less-color-lighten.git"
+  },
+  "author": "Mesosphere Frontend Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mesosphere/less-color-lighten/issues"
+  },
+  "homepage": "https://github.com/mesosphere/less-color-lighten"
+}
